@@ -1,9 +1,9 @@
 # Ujian Tengah Semester - Pemograman Web 1
 
 ## Data Diri
-### Nama: Salman Azhar Latisio
-### NPM: 23552011046
-### Kelas: TIF RP 23 CNS A
+#### Nama: Salman Azhar Latisio
+#### NPM: 23552011046
+#### Kelas: TIF RP 23 CNS A
 
 ---
 
@@ -25,5 +25,6 @@
 <img width="1919" height="953" alt="Screenshot 2025-11-16 190142" src="https://github.com/user-attachments/assets/9164b462-ae75-4d3d-af14-523ef898b1da" />
 
 ---
+
 
 
