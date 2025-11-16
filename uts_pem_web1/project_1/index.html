@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Informasi Perusahaan - E-Learning</title>
+    
+    <!-- External CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="header" style="position:relative;">
+        <h1>📱 Portal Informasi Perusahaan</h1>
+        <p>Temukan informasi lengkap tentang perusahaan-perusahaan terkemuka</p>
+        <div style="position:absolute; right:20px; top:18px; display:flex; gap:12px; align-items:center;">
+            <div id="userName" style="color:white; font-weight:600;"></div>
+            <button class="btn" id="logoutBtn" onclick="logout()">Logout</button>
+        </div>
+    </div>
+
+    <!-- Developer Info Section -->
+    <div class="info-box">
+        <h2 style="color: #667eea; margin-bottom: 10px;">Identitas Pengembang</h2>
+        <p><strong>Nama:</strong> Salman Azhar Latisio</p>
+        <p><strong>NIM:</strong> 23552011046</p>
+        <p><strong>Fakultas:</strong> Fakultas Industri Kreatif - Teknik Informatika</p>
+        <p style="color: #999; font-size: 0.9em; margin-top: 15px;">Ujian Tengah Semester - Halaman Informasi Perusahaan</p>
+    </div>
+
+    <!-- Companies Grid Section -->
+    <div class="container">
+        <div class="companies-grid" id="companiesGrid">
+            <!-- Grid perusahaan akan dimuat oleh JavaScript -->
+        </div>
+    </div>
+
+    <!-- Modal Detail Perusahaan -->
+    <div id="detailModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalCompanyName"></h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Detail perusahaan akan dimuat oleh JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- External JavaScript Files -->
+    <script src="js/auth.js"></script>
+    <script src="data/companies.js"></script>
+    <script src="js/script.js"></script>
+    
+    <footer class="site-footer">@Copyright by 23552011046_Salman Azhar Latisio_TIF RP 23 CNS A</footer>
+</body>
+</html>
