@@ -43,8 +43,15 @@
 ## 7. Insert data Companies
 <img width="1919" height="1007" alt="Screenshot 2025-11-16 192645" src="https://github.com/user-attachments/assets/8f9669a2-701f-4519-966a-a9cf6a254ccc" />
 
+## 8. Delete data Users
+<img width="1918" height="878" alt="Screenshot 2025-11-20 153843" src="https://github.com/user-attachments/assets/3a6d3455-78d8-49ca-99fc-387cb2a6ccb4" />
+
+
+## 9. Delete data Companies
+<img width="1916" height="951" alt="Screenshot 2025-11-20 153900" src="https://github.com/user-attachments/assets/0d92a115-0e15-44e8-80ae-3efa5a1b5eb3" />
 
 
 ---
+
 
 
